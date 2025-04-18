@@ -1,0 +1,8 @@
+@media (max-width: 850px) {
+    .header {
+        display: none;
+        width: 100%;
+        position: relative;
+        z-index: 1;
+    }
+}
